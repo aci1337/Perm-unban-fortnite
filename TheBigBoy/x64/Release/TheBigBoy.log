@@ -1,0 +1,16 @@
+﻿  TheBigBoy.cpp
+C:\Users\ac\source\repos\TheBigBoy\TheBigBoy\TheBigBoy.cpp(99,118): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\ac\source\repos\TheBigBoy\TheBigBoy\TheBigBoy.cpp(208,33): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+C:\Users\ac\source\repos\TheBigBoy\TheBigBoy\TheBigBoy.cpp(208,33): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+C:\Users\ac\source\repos\TheBigBoy\TheBigBoy\TheBigBoy.cpp(208,38): warning C4312: 'type cast': conversion from 'unsigned long' to 'BYTE *' of greater size
+C:\Users\ac\source\repos\TheBigBoy\TheBigBoy\TheBigBoy.cpp(215,33): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+C:\Users\ac\source\repos\TheBigBoy\TheBigBoy\TheBigBoy.cpp(215,33): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+C:\Users\ac\source\repos\TheBigBoy\TheBigBoy\TheBigBoy.cpp(215,38): warning C4312: 'type cast': conversion from 'unsigned long' to 'BYTE *' of greater size
+C:\Users\ac\source\repos\TheBigBoy\TheBigBoy\TheBigBoy.cpp(227,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ac\source\repos\TheBigBoy\TheBigBoy\TheBigBoy.cpp(300,99): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating code
+  1 of 275 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TheBigBoy.vcxproj -> C:\Users\ac\source\repos\TheBigBoy\x64\Release\TheBigBoy.exe
