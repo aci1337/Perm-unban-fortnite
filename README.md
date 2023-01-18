@@ -11,4 +11,6 @@ This app will:
 
 Enjoy
 
+YOU CAN USE YOUR WEBHOOK TO SEE WHO USES YOUR APP (GET THEY'RE IP, USERNAME OF PC, BASEBOARD SERIAL, DISK SERIAL)
+
 Made by aci25 in 20mins on the clock :).
